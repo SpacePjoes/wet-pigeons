@@ -1,6 +1,6 @@
 # wet-pigeons
 A resource pack for the Wet Pigeons semi-SMP server.
-
+\n
 Optifine is required to use this resource pack standalone.
 For Sodium users, run the following mods:
 "CIT Resewn" - Custom Item Textures, 
